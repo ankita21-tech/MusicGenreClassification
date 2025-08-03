@@ -61,8 +61,8 @@ python model_test.py
 
 ## 📈 Evaluation
 
-- **Confusion Matrix** : [Checkout]()
-- **Classification Report** : [Checkout]()
+- **Confusion Matrix** : [Checkout](https://github.com/ackwolver335/MusicGenreClassification/blob/main/Visuals/ConfusionMatrix.png)
+- **Classification Report** : [Checkout](https://github.com/ackwolver335/MusicGenreClassification/blob/main/Visuals/ClassificationReport.png)
 
 ## ✅ To-Do
 
