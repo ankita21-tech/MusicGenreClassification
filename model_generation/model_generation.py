@@ -10,7 +10,7 @@ from sklearn.metrics import confusion_matrix, classification_report
 from tensorflow.keras import models, layers
 from tensorflow.keras.callbacks import EarlyStopping
 
-CSV_PATH = 'features_30_sec.csv'
+CSV_PATH = 'model_generation/features_30_sec.csv'
 MODEL_DIR = 'model'
 MODEL_FILE = os.path.join(MODEL_DIR, 'genre_classifier.keras')
 ENCODER_FILE = os.path.join(MODEL_DIR, 'label_encoder.pkl')
